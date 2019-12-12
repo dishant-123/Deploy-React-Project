@@ -1,0 +1,4 @@
+1.
+npm install -g json-server
+2.content of json 
+json-server --watch db.json
